@@ -1,14 +1,14 @@
-# react-native-number-formatter
+# formatter
 
 A small library that adds commas to numbers
 
 ## Installation
 
-  `npm install @kulbhushansingh/react-native-number-formatter`
+  `npm install @kulbhushansingh/formatter`
 
 ## Usage
 
-    import numFormatter from '@kulbhushansingh/react-native-number-formatter';
+    import numFormatter from '@kulbhushansingh/formatter';
 
     const formattedNum = numFormatter(40000);
   
