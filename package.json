@@ -20,5 +20,10 @@
   },
   "jest": {
     "preset": "react-native"
-  }
+  },
+  "description": "React component to format number with commas.",
+  "main": "index.js",
+  "repository": "https://github.com/ChrisWatson12/react-native-number-formatter.git",
+  "author": "ChrisWatson12 <k.singh12334@gmail.com>",
+  "license": "MIT"
 }
