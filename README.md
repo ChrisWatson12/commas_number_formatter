@@ -4,11 +4,11 @@ A small library that adds commas to numbers
 
 ## Installation
 
-  `npm install @kulbhushansingh/formatter`
+  `npm install commas_number_formatter`
 
 ## Usage
 
-    import numFormatter from '@kulbhushansingh/formatter';
+    import numFormatter from 'commas_number_formatter';
 
     const formattedNum = numFormatter(40000);
   
